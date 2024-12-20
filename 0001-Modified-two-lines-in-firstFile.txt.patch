@@ -1,0 +1,24 @@
+From 611b9115370d22f25a01aeb45ff6a80758ce8080 Mon Sep 17 00:00:00 2001
+From: Rostyslav Yakunin <yakunin.dev.official@gmail.com>
+Date: Thu, 19 Dec 2024 19:54:50 +0200
+Subject: [PATCH] Modified two lines in firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..304d0c0 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++1 - some text
++2 - some text
+ 3
+ 4
+ 5
+-- 
+2.42.0.windows.2
+
